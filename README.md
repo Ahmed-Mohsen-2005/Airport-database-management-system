@@ -4,12 +4,12 @@ The Airport Management System which is a fully integrated platform designed to c
 The main function of the project is flight management, which allows airport administrators to schedule, update, and monitor flights in real time. This functionality includes tracking flight delays, cancellations, and gate changes, ensuring that all the departments are informed instantly. 
 Another point is the staff management that allows the program administrators to assign staff to flights and security checkpoints. Airline staff will use the passenger management functionality to check on passengers, report any problems and manage seating assignments. It also connects to the baggage tracking system, which helps airline staff and passengers to monitor the status of checked baggage, ensuring it reaches the correct destination and on time.
 Also, the ticketing and reservation system is integrated with flight and passenger management. It handles ticket reservations, seat allocations, and flight bookings, updating the passenger records and flight data in real time. Cancellations, upgrades, and ticket changes are also reflected across the system, ensuring that passenger information, seating arrangements, and flight capacities remain accurate.
-###List of system users:
+### List of system users:
 1. Admin
 2. Airline Employee (pilots, ground crew, and cabin crew)
 3. Passenger
 4. Airport Staff (security, customs officers, ground handling staff)
-###Functionalities:
+### Functionalities:
 1. Admin:
 -	Manage flight schedules for different airlines.
 -	Oversee airline contracts and airport services.
