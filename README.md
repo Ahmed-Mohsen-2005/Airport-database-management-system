@@ -1,6 +1,7 @@
 # Airport-database-management-system
 ###### This project is made by Ahmed Mohsen, Jana Ahmed, Mazen Ahmed, Abdelrahman Mohamed
 ![Image](https://images.stockcake.com/public/0/8/9/089460f2-343e-4300-b6e2-22dfc71a5692_large/busy-nighttime-airport-stockcake.jpg)	
+### Project Overview:
 The Airport Management System which is a fully integrated platform designed to control and optimize all major airport operations, from flight scheduling, passenger check-in, baggage handling and security monitoring. It has a lot of important functions like for example, allowing various user types such as airport administrators, airline staff, security, and passengers to interact with the system efficiently. 
 The main function of the project is flight management, which allows airport administrators to schedule, update, and monitor flights in real time. This functionality includes tracking flight delays, cancellations, and gate changes, ensuring that all the departments are informed instantly. 
 Another point is the staff management that allows the program administrators to assign staff to flights and security checkpoints. Airline staff will use the passenger management functionality to check on passengers, report any problems and manage seating assignments. It also connects to the baggage tracking system, which helps airline staff and passengers to monitor the status of checked baggage, ensuring it reaches the correct destination and on time.
